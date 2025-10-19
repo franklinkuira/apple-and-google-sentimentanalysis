@@ -1,4 +1,3 @@
-
 #                                                     Project Name - Apple and Google tweet Sentiment Analysis.
 
 # 1. Business Understanding
@@ -25,7 +24,7 @@ To build a model that can rate the sentiment of a Tweet based on its content
 4. Which machine learning model performs the best in classifying tweet sentiment based on metrics such as accuracy, F1-score, precision and recall?
 5. What are the main words, phrases or themes that drive positive/negative sentiment towards these brands and how do these patterns change over time?
 
-**Stakeholder Audience:** The primary stakeholder for this project was Apple and Google.
+**Stakeholder Audience:** The primary stakeholder for this project; Apple and Google.
 
 ## 1.4 Success Criteria
 * The project will be successful if it develops an accurate and reliable sentiment classification model that achieves an F1-weighted of 75% and above and maintains balanced precision and recall across all the sentiment classes.
