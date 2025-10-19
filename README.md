@@ -36,13 +36,13 @@ Tweets about Apple and Google in particular were taken out for this study in ord
 
 ## Important Visualizations
 
-<img width="824" height="477" alt="image" src="https://github.com/user-attachments/assets/b02eb946-26b8-4723-88c8-b118871ac429" />
+<img width="824" height="477" alt="image" src="https://github.com/franklinkuira/apple-and-google-sentimentanalysis/blob/main/visuals/common%20words.png" />
 
-<img width="846" height="480" alt="image" src="https://github.com/user-attachments/assets/2da0e1d0-8303-40eb-82b9-47ceba2f5914" />
+<img width="846" height="480" alt="image" src="https://github.com/franklinkuira/apple-and-google-sentimentanalysis/blob/main/visuals/final_confusion_matrix.png" />
 
-<img width="858" height="404" alt="image" src="https://github.com/user-attachments/assets/ccc72131-48b2-4859-b1f0-4a1a0314d672" />
+<img width="858" height="404" alt="image" src="https://github.com/franklinkuira/apple-and-google-sentimentanalysis/blob/main/visuals/kmeans.png" />
 
-<img width="465" height="382" alt="image" src="https://github.com/user-attachments/assets/d54710bb-9794-446d-a439-8fd567a4c5e7" />
+<img width="465" height="382" alt="image" src="https://github.com/franklinkuira/apple-and-google-sentimentanalysis/blob/main/visuals/wordcloud.png" />
 
 # 🧹 Data Cleaning 
 
